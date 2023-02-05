@@ -1,0 +1,12 @@
+.navbar__container {
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    background-color: beige;
+}
+
+.navbar__item {
+    height: 100%;
+    padding: 10px 20px;
+    background-color: beige;
+}
