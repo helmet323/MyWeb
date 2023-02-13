@@ -1,5 +1,6 @@
 import About from "./components/About/About";
 import Navbar from "./components/Navbar/Navbar";
+import Portfolio from "./components/Portfolio/Portfolio";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
         <div className="App">
             <Navbar />
             <About />
+            <Portfolio />
             
         </div>
     );

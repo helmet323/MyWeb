@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets";
+import Logo from "../../assets/Logo.png";
 import "./navbar.css";
 
 function Navbar() {
@@ -8,7 +8,6 @@ function Navbar() {
             <img className="navbar__logo" src={Logo} alt="logo" />
 
             <div className="navbar__item_container">
-                <div className="navbar__item">About me</div>
                 <div className="navbar__item">Portfolio</div>
                 <div className="navbar__item">Contact</div>
             </div>
